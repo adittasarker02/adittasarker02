@@ -1,5 +1,12 @@
-## Hi👋, I'm Aditta Sarker
 
+
+## Hi👋, I'm Aditta Sarker
+<!--about info-->
+- 🔭 I’m currently working on Web Development projects
+- 🌱 I’m currently learning JavaScript, TypeScript & React
+- 👯 I’m looking to collaborate on Web Development projects
+- 💬 Ask me about Java, JavaScrip TypeScript 
+- 📫 Feel free to reach me: Email
 <!--
 **adittasarker02/adittasarker02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
