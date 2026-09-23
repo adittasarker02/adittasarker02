@@ -1,4 +1,8 @@
 <!--banner section-->
+<p align="center">
+  <img src="./banner/<img width="1983" height="793" alt="github-banner png" src="https://github.com/user-attachments/assets/ff49d84c-208b-4aa8-b274-bfe62120076b"/>
+" alt="" width="100%">
+</p>
 # Hi 👋, I'm Aditta Sarker
 
 - 🔭 I'm currently working on **Web Development projects**
