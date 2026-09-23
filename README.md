@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./github-banner.png" alt="Aditta Sarker GitHub Banner" width="100%">
+</p>
 
 ## Hi👋, I'm Aditta Sarker
 <!--about info-->
