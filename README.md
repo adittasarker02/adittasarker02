@@ -1,6 +1,10 @@
-<!--Banner section-->
+<!--banner section-->
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6ab3e8b2956c8191808a2981de8e6636" alt="Aditta Sarker GitHub Banner" width="100%">
+  <img
+    src="./<img width="1983" height="793" alt="github-banner png" src="https://github.com/user-attachments/assets/fcb43ceb-07ed-44c4-b25e-ac031ffc8ae3" />"
+    alt="Aditta Sarker GitHub Profile Banner"
+    width="100%"
+  />
 </p>
 
 ## Hi👋, I'm Aditta Sarker
