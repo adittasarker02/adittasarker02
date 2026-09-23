@@ -1,4 +1,7 @@
-
+<!--Banner section-->
+<p align="center">
+  <img src="https://chatgpt.com/s/m_6ab3e8b2956c8191808a2981de8e6636" alt="Aditta Sarker GitHub Banner" width="100%">
+</p>
 
 ## Hi👋, I'm Aditta Sarker
 <!--about info-->
