@@ -1,6 +1,6 @@
 <!--banner section-->
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/adittasarker02/adittasarker02/main/banner.png.png"    alt="Aditta Sarker GitHub Banner"   width="100%"  /></p>
+  <img  src="https://raw.githubusercontent.com/adittasarker02/adittasarker02/main/banner.png"    alt="Aditta Sarker GitHub Banner"   width="100%"  /></p>
   
 # Hi 👋, I'm Aditta Sarker
 
