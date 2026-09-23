@@ -1,5 +1,7 @@
 <!--banner section-->
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/adittasarkero02/adittasarkero02/main/github-banner.png"  width="100%" /></p>
+  
 # Hi 👋, I'm Aditta Sarker
 
 - 🔭 I'm currently working on **Web Development projects**
